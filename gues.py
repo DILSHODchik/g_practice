@@ -6,4 +6,8 @@ while(true):
      if(guess == ran):
              print("CORRECT!")
              break
+<<<<<<< HEAD
      else: print("WRONG! try again")
+=======
+     else: print("WRONG! try again")
+>>>>>>> 6491720f421625de683f1ef90c2c41aac71bd34d
